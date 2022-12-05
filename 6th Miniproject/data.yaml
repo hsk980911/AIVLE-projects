@@ -1,0 +1,7 @@
+is_coco: false
+names:
+- young
+- old
+nc: 2
+train: /app/HSK/6th_MIniProject/AI_service/train.txt
+val: /app/HSK/6th_MIniProject/AI_service/val.txt

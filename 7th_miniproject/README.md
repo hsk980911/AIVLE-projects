@@ -1,4 +1,4 @@
-# 7th_miniproject
+# 수어 번역 서비스 개발
 
 이미지 분류 Django
 
